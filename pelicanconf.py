@@ -54,4 +54,4 @@ ABOUT_ME = "I am a motivated individual that finds artificial intelligence and t
 
 AVATAR = "../img/profile_scaled.jpg"
 
-SIDEBAR_ON_LEFT = True
+SIDEBAR_ON_LEFT = False
