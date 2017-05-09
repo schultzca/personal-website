@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (,)
+LINKS = ()
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/schultzca'),)
