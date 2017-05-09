@@ -1,0 +1,8 @@
+Title: Example Post #2
+Date: 10-25-2017
+Category: Python
+Summary: The hidden art of tying your shoes quickly!
+
+# Instructions on how to tie your shoes.
+
+Very few people know this but tying your shoes is critical to wearing them in comfort. This blog will change your life!
